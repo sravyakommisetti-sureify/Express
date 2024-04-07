@@ -1,6 +1,6 @@
-# EsMark-BE
+# Express
 
-Simple netflix clone built by using nodejs and react.
+Simple api using express and node.
 
 # creating migrations
 
@@ -18,10 +18,10 @@ should create a database.json file in src folder
 ```{
   "dev": {
     "driver": "pg",
-    "user": "madhav",
-    "password": "madhav",
+    "user": "",
+    "password": "",
     "host": "localhost",
-    "database": "esmark_local"
+    "database": "local"
   }
 }
 ```
